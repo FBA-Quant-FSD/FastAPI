@@ -1,3 +1,6 @@
+**__pycache__
+**/test.**
+
 Dayun/fastapienv/pyvenv.cfg
 Dayun/fastapienv/bin/activate
 Dayun/fastapienv/bin/activate.csh
